@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Freeman</h1>
 <h3 align="center">A passionate UX/UI designer and frontend developer.</h3>
 

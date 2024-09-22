@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://orbliv8.framer.website](https://orbliv8.framer.website)
+- 👨‍💻 All of my projects are available at [https://trefreeman.framer.website](https://trefreeman.framer.website)
 
 - 💬 Ask me about **Product Design, Web & Mobile App Design , Web Development,**
 
 - 📫 How to reach me **eben.tre@outlook.com**
 
-- 📄 Know about my experiences [trefreeman.framer.website/about](trefreeman.framer.website/about)
+- 📄 Know about my experiences [https://trefreeman.framer.website/about](https://trefreeman.framer.website/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

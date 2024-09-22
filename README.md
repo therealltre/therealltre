@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **eben.tre@outlook.com**
 
-- 📄 Know about my experiences [https://orbliv8.framer.website/about](https://orbliv8.framer.website/about)
+- 📄 Know about my experiences [trefreeman.framer.website/about](trefreeman.framer.website/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

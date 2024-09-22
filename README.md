@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealltre&label=Profile%20views&color=0e75b6&style=flat" alt="therealltre" /> </p>
 
-- 🔭 I’m currently working on [MontessoriConnect](https://github.com/Syentia-io/montessori_frontend)
+- 🔭 I’m currently working on [MontessoriConnect](#)
 
 - 🌱 I’m currently learning **React Native**
 

@@ -60,7 +60,7 @@
   <img width="12" />
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> </a>
   <img width="12" />
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/virtualbox/icon.svg" alt="virtualbox" width="40" height="40"/> </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/VirtualBox_2024_Logo.svg" alt="virtualbox" width="40" height="40"/> </a>
 </div>
 
 ## 🏆 GitHub Trophies

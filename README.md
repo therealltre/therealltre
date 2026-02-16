@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://orbliv8.framer.website)
 <h1 align="center">Hi 👋, I'm Freeman</h1>
-<h3 align="center">A Product designer, Software engineer, and IT Technician.</h3>
+<h3 align="center">A passionate UX/UI designer, Software engineer, and IT Technician.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
@@ -60,7 +60,7 @@
   <img width="12" />
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> </a>
   <img width="12" />
-  <a href="https://www.virtualbox.org" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:VirtualBox_2024_Logo.svg" alt="virtualbox" width="40" height="40"/> </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a>
 </div>
 
 ## 🏆 GitHub Trophies

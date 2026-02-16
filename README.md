@@ -1,16 +1,16 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://orbliv8.framer.website)
 <h1 align="center">Hi 👋, I'm Freeman</h1>
-<h3 align="center">A passionate UX/UI designer and Software engineer.</h3>
+<h3 align="center">A passionate UX/UI designer, Software engineer, and IT Technician.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealltre&label=Profile%20views&color=0e75b6&style=flat" alt="therealltre" /> </p>
 
-- 🔭 I’m currently working on [MontessoriConnect](#)
+- 🔭 I'm currently working on [MontessoriConnect](#)
 
 - 👨‍💻 All of my projects are available at [https://trefreeman.framer.website](https://trefreeman.framer.website)
 
-- 💬 Ask me about **Product Design, Web & Mobile App Design , Web Development,**
+- 💬 Ask me about **Product Design, Web & Mobile App Design, Web Development, IT Support**
 
 - 📫 How to reach me **eben.tre@outlook.com**
 
@@ -65,7 +65,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=therealltre&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-

@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [MontessoriConnect](#)
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://trefreeman.framer.website](https://trefreeman.framer.website)
 
 - 💬 Ask me about **Product Design, Web & Mobile App Design , Web Development,**

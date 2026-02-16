@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://orbliv8.framer.website)
 <h1 align="center">Hi 👋, I'm Freeman</h1>
-<h3 align="center">A passionate UX/UI designer, Software engineer, and IT Technician.</h3>
+<h3 align="center">A Product designer, Software engineer, and IT Technician.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
@@ -34,7 +34,6 @@
   <img width="12" />
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
   <img width="12" />
-
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
   <img width="12" />
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </a>
@@ -58,6 +57,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <img width="12" />
   <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  /></a>
+  <img width="12" />
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> </a>
+  <img width="12" />
+  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="40" height="40"/> </a>
 </div>
 
 ## 🏆 GitHub Trophies

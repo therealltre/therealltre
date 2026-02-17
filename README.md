@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealltre&label=Profile%20views&color=0e75b6&style=flat" alt="therealltre" /> </p>
 
-- 🔭 I’m currently working on [MontessoriConnect](https://montessoriworldconnect.com)
+- 🔭 I'm currently working on [MontessoriConnect](https://montessoriworldconnect.com)
 
 - 👨‍💻 All of my projects are available at [https://trefreeman.framer.website](https://trefreeman.framer.website)
 
@@ -61,6 +61,8 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> </a>
   <img width="12" />
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/VirtualBox_2024_Logo.svg" alt="virtualbox" width="40" height="40"/> </a>
+  <img width="12" />
+  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="active directory" width="40" height="40"/> </a>
 </div>
 
 ## 🏆 GitHub Trophies

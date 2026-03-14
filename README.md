@@ -37,7 +37,7 @@ https://montessoriworldconnect.com
 ## 🌐 Portfolio
 
 👨‍💻 Selected work and case studies  
-👉 [https://trefreeman.framer.website/#projects](https://trefreeman.framer.website/#projects)
+👉 [Projects](https://trefreeman.framer.website/#projects)
 
 📄 About & experience  
 👉 https://trefreeman.framer.website/about

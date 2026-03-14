@@ -40,7 +40,7 @@ https://montessoriworldconnect.com
 👉 [Projects](https://trefreeman.framer.website/#projects)
 
 📄 About & experience  
-👉 https://trefreeman.framer.website/about
+👉 [About Me](https://trefreeman.framer.website/about)
 
 📫 Contact  
 **eben.tre@outlook.com**

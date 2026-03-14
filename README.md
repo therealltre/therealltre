@@ -11,19 +11,26 @@
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Current Focus
 
-🔭 **Rainforest Builder Platform**  
-Product design & development  
-👉 https://app.rainforestbuilder.com
+IT Systems Administration & Cloud Infrastructure  
+Building a hands-on home lab with:
+
+• Windows Server / Active Directory  
+• Linux Server (Ubuntu)  
+• Microsoft 365 / Entra ID  
+• Security monitoring (Splunk)  
+• Network monitoring
 
 ---
 
-## 📦 Previous Project
+## 💼 Selected Projects
 
-**MontessoriConnect**  
-Platform for connecting Montessori educators and parents  
-👉 https://montessoriworldconnect.com
+Rainforest Builder Platform  
+https://app.rainforestbuilder.com
+
+MontessoriConnect  
+https://montessoriworldconnect.com
 
 ---
 

@@ -95,4 +95,4 @@ About
 
 > Requires the GitHub Action below to generate `github-contribution-grid-snake.svg` in the repo root.
 
-![snake gif](https://github.com/therealltre/therealltre/blob/main/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg?user=therealltre)

@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Freeman</h1>
 <h3 align="center">UX Engineer • IT Systems Administrator</h3>
 
+<p align="center">
+Building systems, interfaces, and infrastructure.
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
 <p align="left">
@@ -13,33 +17,66 @@
 
 ## 🚀 Current Focus
 
-IT Systems Administration & Cloud Infrastructure  
-Building a hands-on home lab with:
+Building a **Systems Administration Home Lab**
 
-• Windows Server / Active Directory  
+• Windows Server + Active Directory  
 • Linux Server (Ubuntu)  
 • Microsoft 365 / Entra ID  
-• Security monitoring (Splunk)  
+• Security monitoring with Splunk  
 • Network monitoring
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
+
+<img src="https://skillicons.dev/icons?i=azure,linux,mysql,firebase,postman" />
+
+<img src="https://skillicons.dev/icons?i=figma,ae" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=therealltre&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealltre&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=therealltre&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
 ## 💼 Selected Projects
 
-Rainforest Builder Platform  
+### Rainforest Builder
+Product design & development platform  
 https://app.rainforestbuilder.com
 
-MontessoriConnect  
+### MontessoriConnect
+Platform connecting Montessori educators and parents  
 https://montessoriworldconnect.com
 
 ---
 
 ## 🌐 Portfolio
 
-👨‍💻 Selected work and case studies  
+Projects  
 👉 [Projects](https://trefreeman.framer.website/#projects)
 
-📄 About & experience  
+About  
 👉 [About Me](https://trefreeman.framer.website/about)
 
 📫 Contact  
@@ -47,84 +84,24 @@ https://montessoriworldconnect.com
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/tre-freeman" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+<a href="https://linkedin.com/in/tre-freeman">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.behance.net/tre_freeman" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" />
+<a href="https://www.behance.net/tre_freeman">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🐍 Optional: Contribution Snake
 
-<div align="left">
+> Generates a moving commit graph for extra visual flair. Requires a GitHub Action.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-</a>
-
-<a href="https://reactjs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</a>
-
-<a href="https://reactnative.dev/">
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
-</a>
-
-<a href="https://www.figma.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</a>
-
-<a href="https://www.framer.com/">
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
-</a>
-
-<a href="https://appwrite.io">
-<img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40"/>
-</a>
-
-<a href="https://azure.microsoft.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-</a>
-
-<a href="https://www.virtualbox.org/">
-<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/windows-server/">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40"/>
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Stats
-
-![](https://github-profile-trophy.vercel.app/?username=therealltre&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=therealltre&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![snake gif](https://github.com/therealltre/therealltre/blob/output/github-contribution-grid-snake.svg)

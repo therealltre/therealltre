@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://orbliv8.framer.website)
 <h1 align="center">Hi 👋, I'm Freeman</h1>
-<h3 align="center">A passionate UX/UI designer, Software engineer, and IT Systems Adminstrator</h3>
+<h3 align="center">A passionate UX/UI designer, Software engineer, and IT Systems Administrator</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 

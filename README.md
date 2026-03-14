@@ -93,8 +93,6 @@ About
 
 ## 🐍 GitHub Contribution Snake
 
-> Requires the GitHub Action below to generate `github-contribution-grid-snake.svg` in the repo root.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/therealltre/therealltre/output/github-snake-dark.svg" />

@@ -2,30 +2,32 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily
+    - cron: '0 0 * * *'  # runs daily
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate snake SVG
+        id: generate
         uses: platane/snk@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: therealltre
 
-      - name: Move SVG to repo root
+      - name: Save snake SVG to file
         run: |
-          mv github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
+          echo "${{ steps.generate.outputs.snake-svg }}" > github-contribution-grid-snake.svg
 
-      - name: Commit and push SVG
+      - name: Commit & push SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
-          git commit -m "Update contribution snake" || echo "No changes to commit"
+          git commit -m "Update GitHub contribution snake" || echo "No changes to commit"
           git push origin main

@@ -95,4 +95,11 @@ About
 
 > Requires the GitHub Action below to generate `github-contribution-grid-snake.svg` in the repo root.
 
-![GitHub Snake GIF](https://raw.githubusercontent.com/therealltre/therealltre/output/ocean.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/therealltre/therealltre/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/therealltre/therealltre/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation"
+       src="https://raw.githubusercontent.com/therealltre/therealltre/output/github-snake.svg" />
+</picture>

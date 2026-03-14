@@ -30,13 +30,9 @@ Building a **Systems Administration Home Lab**
 ## 💻 Tech Stack
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
-
 <img src="https://skillicons.dev/icons?i=azure,linux,mysql,firebase,postman" />
-
-<img src="https://skillicons.dev/icons?i=figma,ae" />
-
+<img src="https://skillicons.dev/icons?i=figma,ae,vercel,vscode,windows,github" />
 </p>
 
 ---
@@ -44,11 +40,8 @@ Building a **Systems Administration Home Lab**
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=therealltre&show_icons=true&theme=tokyonight"/>
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealltre&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -87,7 +80,6 @@ About
 ## 🤝 Connect
 
 <p align="left">
-
 <a href="https://linkedin.com/in/tre-freeman">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -95,13 +87,12 @@ About
 <a href="https://www.behance.net/tre_freeman">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40"/>
 </a>
-
 </p>
 
 ---
 
-## 🐍 Optional: Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-> Generates a moving commit graph for extra visual flair. Requires a GitHub Action.
+> Requires the GitHub Action below to generate `github-contribution-grid-snake.svg` in the repo root.
 
-![snake gif](https://github.com/therealltre/therealltre/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/therealltre/therealltre/blob/main/github-contribution-grid-snake.svg)

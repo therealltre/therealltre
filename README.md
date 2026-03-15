@@ -32,7 +32,7 @@ Building a **Systems Administration Home Lab**
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
 <img src="https://skillicons.dev/icons?i=azure,linux,mysql,firebase,postman" />
-<img src="https://skillicons.dev/icons?i=figma,ae,vercel,vscode,windows,github" />
+<img src="https://skillicons.dev/icons?i=figma,ae,vercel,vscode,github" />
 </p>
 <div align="left">
 

@@ -34,6 +34,26 @@ Building a **Systems Administration Home Lab**
 <img src="https://skillicons.dev/icons?i=azure,linux,mysql,firebase,postman" />
 <img src="https://skillicons.dev/icons?i=figma,ae,vercel,vscode,windows,github" />
 </p>
+<div align="left">
+
+<a href="https://www.framer.com/">
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
+</a>
+
+<a href="https://appwrite.io">
+<img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40"/>
+</a>
+
+<a href="https://www.virtualbox.org/">
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/windows-server/">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40"/>
+</a>
+
+</div>
+
 
 ---
 

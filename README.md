@@ -48,7 +48,7 @@ Building a **Systems Administration Home Lab**
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=therealltre&theme=radical&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=therealltre&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 

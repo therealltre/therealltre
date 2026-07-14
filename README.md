@@ -53,9 +53,14 @@ Working on A cross-platform mobile application that brings together multiple tra
 <p align="left">
 <img src="https://skillicons.dev/icons?i=azure,linux" />
 <img src="https://skillicons.dev/icons?i=ae" />
-</p>
-<div align="left">
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40"/>
 
+</p>
+
+<div align="left">
 <a href="https://www.framer.com/">
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
 </a>

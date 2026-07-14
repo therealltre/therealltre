@@ -51,9 +51,8 @@ Working on A cross-platform mobile application that brings together multiple tra
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
-<img src="https://skillicons.dev/icons?i=azure,linux,mysql,firebase,postman" />
-<img src="https://skillicons.dev/icons?i=figma,ae,vercel,vscode,github" />
+<img src="https://skillicons.dev/icons?i=azure,linux" />
+<img src="https://skillicons.dev/icons?i=ae" />
 </p>
 <div align="left">
 

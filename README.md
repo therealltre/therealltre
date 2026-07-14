@@ -98,8 +98,6 @@ Projects
 About  
 👉 [About Me](https://trefreeman.framer.website/about)
 
-📫 Contact  
-**eben.tre@outlook.com**
 
 ---
 ### 🤝 Connect With Me

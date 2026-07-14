@@ -1,7 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://trefreeman.framer.website)
 
 <h1 align="center">Hi 👋, I'm Freeman</h1>
-<h3 align="center">UX Engineer • IT Systems Administrator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=775&height=44&lines=UX%20Engineer%20%E2%80%A2%20IT%20Systems%20Administrator;Building%20systems%2C%20interfaces%2C%20and%20infrastructure." alt="Typing headlines" />
@@ -16,6 +15,8 @@
 ---
 
 ## 🚀 Current Focus
+
+🔭  I'm currently working on A cross-platform mobile application that brings together multiple transportation and travel services into a single experience. Users can book rides, reserve flights, find accommodation, and rent vehicles without switching between different applications.
 
 Building a **Systems Administration Home Lab**
 

@@ -16,15 +16,7 @@
 
 ## 🚀 Current Focus
 
-🔭  I'm currently working on A cross-platform mobile application that brings together multiple transportation and travel services into a single experience. Users can book rides, reserve flights, find accommodation, and rent vehicles without switching between different applications.
-
-Building a **Systems Administration Home Lab**
-
-• Windows Server + Active Directory  
-• Linux Server (Ubuntu)  
-• Microsoft 365 / Entra ID  
-• Security monitoring with Splunk  
-• Network monitoring
+Working on A cross-platform mobile application that brings together multiple transportation and travel services into a single experience. Users can book rides, reserve flights, find accommodation, and rent vehicles without switching between different applications.
 
 ---
 

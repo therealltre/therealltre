@@ -4,7 +4,7 @@
 <h3 align="center">UX Engineer • IT Systems Administrator</h3>
 
 <p align="center">
-Building systems, interfaces, and infrastructure.
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=775&height=44&lines=UX%20Engineer%20%E2%80%A2%20IT%20Systems%20Administrator;Building%20systems%2C%20interfaces%2C%20and%20infrastructure." alt="Typing headlines" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
